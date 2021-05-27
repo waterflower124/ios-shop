@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  FishDay
+
+  Created by Muhammad Kamal on 2/17/18.
+  Copyright © 2018 Anas Sherif. All rights reserved.
+*/
+
+// Menu
+"Home"="Home";
+"My Orders"="My Orders";
+"Cart"="Cart";
+"Services"="Our Services";
+"About"="About";
+"Contact us"="Contact us";
+"Language"="Language";
+"Logout"="Logout";
+
+// Home
+"AddToCart" = "Add to cart";
+
+// ProductDetails
+"BaseUnit" = "Base Unit";
+"PerPiece" = "Per Piece";
+"PerKilo" = "Per Kilo";
+"Cleaning" = "Cleaning";
+"Clean" = "Clean";
+"Barbecue" = "Barbecue";
+"Cutting" = "Cutting";
+"Seasoning" = "Seasoning";
+"No" = "No";
+"Yes" = "Yes";
+"Packaging" = "Packaging";
+"Vacuumpackaging" = "Vacuum packaging";
+"Foamplates" = "Foam plates";
+"SuggestedProducts" = "Suggested Products";
+
+// Create Order
+"MethodOfSlicing" = "Method of slicing";
+"TypeOfQuantity" = "Type of quantity";
+"Cancel" = "Cancel";
+"Per Kilo" = "Per Kilo";
+"Per Piece" = "Per Piece";
+"With cleaning" = "With cleaning";
+"Without cleaning" = "Without cleaning";
+"For grilling" = "Fo grilling";
+
+// My Orders
+"OrderNumber" = "Order number";
+"SAR" = "SAR";
+
+
+// Login
+"KSA" = "Saudi arabia";
+"FishDay" = "Fish Day";
+"ConfirmationCodeMessage" = "You will receive a confirmation\ncode to verify that is\nyours";
+"Country" = "Country";
+"City" = "City";
+"MobileNumber" = "Mobile number";
+"Login" = "Register";
+"GoToMarket" = "Go to market";
+"invalid_phonenumber" = "Please input valid phone number.";
+
+
+// Confirmation
+"ConfirmAccount" = "Confirm account";
+"ConfirmationCode" = "Confirmation code";
+"ConfirmationCodeSentMessage" = "Code has been sent \n please write it \n here";
+
+// About
+"AboutDesc" = "لقد أصبحنا مقتنعين بأن الفوائد الصحية للمأكولات البحرية الطازجة للبشرية مهمة جدا إلى حد كبير فلا نسمح  لممارسات المطاعم والشيف ان يفقدنا الاستمتاع بطعم السمك الطازج بكثره الصلصات والتوابل عليها نحن نريد أن نترك سحر الأسماك مقرون بيوم السمك ,البحرهو السمك الطازج ورائحته وهذا هو منتج يوم السمك نحن نقدم خدمة التوصيل من أعلى مستويات الجودة والمعايير نقدم لك: وسيلة مريحة لتشمل خيار صحيا من الأسماك الطازجة، والمأكولات البحرية، وتسليمها لباب منزلك من يوم صيدها من قبل موضفينا بشحن ومعامل التنظيف. لدينا تشكيلة كبيرة من المأكولات جنبا إلى جنب مع فريق من ذوي الخبرة لدينا، وهم يعرفون ما الذي تبحث عنه نحن نقدم الأسماك الطازجة والمأكولات البحرية مباشرة إلى الباب الخاص بك. متجر اسماك  على شبكة الإنترنت، يسمح لك أن تأمر بسرعة وبشكل آمن. للأسماك والمأكولات البحرية";
+
+// cart
+"Price" = "Price";
+"TotalCost" = "Total cost";
+"OrderNow" = "Order now";
+"Tax" = "Delivery Cost";
+"SubTotal" = "SubTotal";
+"Order cost should be more than 100 SAR" = "Order cost should be more than 100 SAR";
+"OK" = "OK";
+"Notes" = "Notes";
+
+"Address" = "Address";
+"OrderPlaced" = "Order has been placed successfully";
+"OrderMoved" = "Order has been moved successfully";
+"OrderOnWay" = "Order is on his way";
+"deliveryAlartMsg" ="Delivery is within (12) hours because the fish is always fresh and ordered from Dammam and not stored";
+
+"MobileValidiation" = "Mobile number without Zero, for example: 556668777";
+
+"orderInputEmpty" = "Full name and Mobile number, address are required";
+
+"verificationCodeEmpty" = "Please input verification code";
+"orderFinish" = "Wait your order to finish";
+
+"order_error_prefix_first" = "There are";
+"order_error_prefix_second" = "items.";
+"order_error_perfix" = "Please reduce count or delete corresponding item.";
+
+/// make order
+"payment_method" = "Payment Method";
+"payment_mada" = "Meda - Visa/Master";
+"payment_cash" = "Cash On Delivery";
+"completeorder_fail" = "Payment of your order is failed. Please try again.";
+"completeorder_success" = "Your payment is done successfully.";
+
+
+/// product cell
+"perkg" = "per kg";
+"perpc" = "per pc";
+
+/// order status
+"payment_method" = "Payment Method";
+"payment_method_mada" = "Mada";
+"payment_method_cash" = "Cash";
+"payment_status" = "Payment Status";
+"payment_status_pending" = "Pending";
+"payment_status_cancelled" = "Cancelled";
+"payment_status_paid" = "Paid";
+
+
+// confirmation code
+"verify_code_wrong" = "Your verification code is wrong. Please try again";
+"error_message" = "Error occurred. Please try again";
+

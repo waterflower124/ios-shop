@@ -1,0 +1,116 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Cosmos (23.0.0)
+  - DropDown (2.3.13)
+  - DynamicBlurView (4.1.0)
+  - GoogleMaps (3.1.0):
+    - GoogleMaps/Maps (= 3.1.0)
+  - GoogleMaps/Base (3.1.0)
+  - GoogleMaps/Maps (3.1.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (3.1.0):
+    - GoogleMaps (= 3.1.0)
+    - GooglePlaces (= 3.1.0)
+  - GooglePlaces (3.1.0):
+    - GoogleMaps/Base (= 3.1.0)
+  - ImageSlideshow (1.9.1):
+    - ImageSlideshow/Core (= 1.9.1)
+  - ImageSlideshow/Core (1.9.1)
+  - ImageSlideShowSwift (0.1.8)
+  - ImageValet (2.4.0):
+    - Alamofire (~> 4.7)
+    - AlamofireImage (~> 3.3)
+  - IQKeyboardManager (6.5.5)
+  - LMGaugeView (1.0.5)
+  - MOLH (0.8)
+  - ObjectMapper (3.5.3)
+  - OneSignal (2.14.3)
+  - PlacesPicker (0.0.3):
+    - GoogleMaps (~> 3.1.0)
+    - GooglePlaces (~> 3.1.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SFGaugeView (0.0.7)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - Cosmos (~> 23.0)
+  - DropDown
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - ImageSlideshow
+  - ImageSlideShowSwift
+  - ImageValet
+  - IQKeyboardManager
+  - LMGaugeView
+  - MOLH (~> 0.8)
+  - ObjectMapper
+  - OneSignal (< 3.0, >= 2.11.2)
+  - PlacesPicker
+  - PopupDialog
+  - SFGaugeView
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - Cosmos
+    - DropDown
+    - DynamicBlurView
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - ImageSlideshow
+    - ImageSlideShowSwift
+    - ImageValet
+    - IQKeyboardManager
+    - LMGaugeView
+    - MOLH
+    - ObjectMapper
+    - OneSignal
+    - PlacesPicker
+    - PopupDialog
+    - SFGaugeView
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  GoogleMaps: 5c13302e6fe6bb6e686b267196586b91cd594225
+  GooglePlacePicker: fa975116ac202ac29822c0a79758ea1c4db5a95f
+  GooglePlaces: e874db179f2675c4f3eeda0b686b540273a578b0
+  ImageSlideshow: 67184be896a28472bd3b906c33ce4e0734aa3d22
+  ImageSlideShowSwift: 0d3463bf19c3b4529cd7d5a42263209773d65a37
+  ImageValet: a92dc1368601004266c5a6744b19d09e0c7a21bd
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  LMGaugeView: fe0dd33c201388ba9271548d6e026ddde3b3d3a2
+  MOLH: b9766efe89be975ce82a8d5642f681da23c876fc
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  OneSignal: 7dfe466265c05f02b95a274b9c997a0619ad2117
+  PlacesPicker: 3748ed50243c4b786dd8404610b279c96455f0c1
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SFGaugeView: 1afc5641388422e1285c2feaf06787023531e67b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: d8fee51555906342c53083ed5c088f339a755ac8
+
+COCOAPODS: 1.10.0

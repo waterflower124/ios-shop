@@ -1,0 +1,47 @@
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "0oZ-OP-LT6"; */
+"0oZ-OP-LT6.text" = "Menu";
+
+/* Class = "UILabel"; text = "My Orders"; ObjectID = "CVO-hy-Mt0"; */
+"CVO-hy-Mt0.text" = "My Orders";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Kg3-y5-6eS"; */
+"Kg3-y5-6eS.normalTitle" = "Login";
+
+/* Class = "UINavigationController"; title = "Home"; ObjectID = "Kuw-rb-5yT"; */
+"Kuw-rb-5yT.title" = "Home";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "P1c-Sq-XWx"; */
+"P1c-Sq-XWx.text" = "Cart";
+
+/* Class = "UILabel"; text = "Mobile number"; ObjectID = "Zua-5f-0O3"; */
+"Zua-5f-0O3.text" = "Mobile number";
+
+/* Class = "UILabel"; text = "You can register now by your mobile\\n and you will receive a confirmation\\nmessage to authenticate your number"; ObjectID = "bSU-4R-vYR"; */
+"bSU-4R-vYR.text" = "You can register now by your mobile\\n and you will receive a confirmation\\nmessage to authenticate your number";
+
+/* Class = "UIButton"; normalTitle = "Go to market"; ObjectID = "dgl-LY-APr"; */
+"dgl-LY-APr.normalTitle" = "Go to market";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "f4n-ba-6Yo"; */
+"f4n-ba-6Yo.title" = "Home";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "haO-nv-Pbp"; */
+"haO-nv-Pbp.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "rhw-33-QfX"; */
+"rhw-33-QfX.normalTitle" = "Dismiss";
+
+/* Class = "UILabel"; text = "Fish Day"; ObjectID = "sgJ-4v-Fbz"; */
+"sgJ-4v-Fbz.text" = "Fish Day";
+
+
+"nI3-A1-6Sg.placeholder" = "الاسم";
+"2iL-Gz-4Fm.placeholder" = "رقم الجوال";
+"Cx2-zH-PHY.placeholder" = "العنوان";
+"7YH-F6-l8f.normalTitle" = "العنوان الحالي";
+"e8I-rN-9yC.text" = "هناك جهاز سحب من بطاقات الصراف الالي";
+"0eS-B7-TJZ.text" = "يتم التوصيل خلال (12) ساعة لأن الأسماك دائماً طازجة ويتم طلبها من الدمام وليست مخزنة";
+"hcl-LK-5sd.normalTitle" = "اكمل الطلب";
+
+

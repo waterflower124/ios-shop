@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  FishDay
+
+  Created by Muhammad Kamal on 2/17/18.
+  Copyright © 2018 Anas Sherif. All rights reserved.
+*/
+
+// Menu
+"Home"="الرئيسية";
+"My Orders"="طلباتي";
+"Cart"="العربة";
+"Services"="خدماتنا الاخرى";
+"About"="عننا";
+"Contact us"="اتصل بنا";
+"Language"="اللغة";
+"Logout"="خروج";
+
+// Home
+"AddToCart" = "اضف الي العربة";
+
+// ProductDetails
+"BaseUnit" = "وحدة القياس";
+"PerPiece" = "لكل حبة";
+"PerKilo" = "لكل كيلو";
+"Cleaning" = "التنظيف";
+"Clean" = "تنظيف";
+"Barbecue" = "للشوي";
+"Cutting" = "تقطيع";
+"Seasoning" = "التتبيل";
+"No" = "بدون";
+"Yes" = "نعم";
+"Packaging" = "التغليف";
+"Vacuumpackaging" = "اكياس فاكيوم";
+"Foamplates" = "اطباق فلين";
+"SuggestedProducts" = "منتجات مقترحة";
+
+// Create Order
+"MethodOfSlicing" = "طرق التقطيع";
+"TypeOfQuantity" = "نوع الكمية";
+"Cancel" = "الغاء";
+"Per Kilo" = "بالكيلو";
+"Per Piece" = "بالقطعة";
+"With cleaning" = "تنظيف";
+"Without cleaning" = "بدون تنظيف";
+"For grilling" = "للشوي (سنجاري)";
+
+// My Orders
+"OrderNumber" = "رقم الطلب";
+"SAR" = "ريال";
+
+// Login
+"KSA" = "المملكة العربية السعودية";
+"FishDay" = "يوم السمك";
+"ConfirmationCodeMessage" = "يمكنك التسجيل الان و سوف \n يصلك كود تفعيلي للتحقق \n من رقم هاتفك";
+"Country" = "الدولة";
+"City" = "المدينة";
+"MobileNumber" = "رقم الجوال";
+"Login" = "تسجيل";
+"GoToMarket" = "اذهب الي المتجر";
+"invalid_phonenumber" = "الرجاء إدخال رقم هاتف صالح";
+
+// Confirmation
+"ConfirmAccount" = "تفعيل الحساب";
+"ConfirmationCode" = "كود التفعيل";
+"ConfirmationCodeSentMessage" = "تم ارسال كود الي رقم الهاتف \n يرجي ادخال المز \n هنا";
+
+// About
+"AboutDesc" = "لقد أصبحنا مقتنعين بأن الفوائد الصحية للمأكولات البحرية الطازجة للبشرية مهمة جدا إلى حد كبير فلا نسمح  لممارسات المطاعم والشيف ان يفقدنا الاستمتاع بطعم السمك الطازج بكثره الصلصات والتوابل عليها نحن نريد أن نترك سحر الأسماك مقرون بيوم السمك ,البحرهو السمك الطازج ورائحته وهذا هو منتج يوم السمك نحن نقدم خدمة التوصيل من أعلى مستويات الجودة والمعايير نقدم لك: وسيلة مريحة لتشمل خيار صحيا من الأسماك الطازجة، والمأكولات البحرية، وتسليمها لباب منزلك من يوم صيدها من قبل موضفينا بشحن ومعامل التنظيف. لدينا تشكيلة كبيرة من المأكولات جنبا إلى جنب مع فريق من ذوي الخبرة لدينا، وهم يعرفون ما الذي تبحث عنه نحن نقدم الأسماك الطازجة والمأكولات البحرية مباشرة إلى الباب الخاص بك. متجر اسماك  على شبكة الإنترنت، يسمح لك أن تأمر بسرعة وبشكل آمن. للأسماك والمأكولات البحرية";
+
+
+// cart
+"Price" = "السعر";
+"TotalCost" = "اجمالي التكلفة";
+"OrderNow" = "اطلب الان";
+"Tax" = "تكلفة التوصيل";
+"SubTotal" = "السعر";
+"Order cost should be more than 100 SAR" = "يجب ان يكون الطلب اكثر من 100 ريال";
+"OK" = "موافق";
+"Notes" = "الملاحظات";
+
+
+"Address" = "العنوان";
+"OrderPlaced" = "تم تسجيل الطلب بنجاح";
+"OrderMoved" = "تم نقل الطلب الي معمل التجهيز";
+"OrderOnWay" = "الطلب في طريقة الان اليك";
+"deliveryAlartMsg" = "يتم التوصيل خلال (12) ساعة لأن الأسماك دائماً طازجة ويتم طلبها من الدمام وليست مخزنة";
+
+"MobileValidiation" = "رقم الجوال بدون الصفر مثلا: ٥٥٦٦٦٨٧٧٧";
+"orderInputEmpty" = "مطلوب الاسم الكامل ورقم الهاتف المحمول والعنوان";
+"verificationCodeEmpty" = "يرجى إدخال رمز التحقق";
+"orderFinish" = "انتظر الطلب حتي يكتمل";
+
+"order_error_prefix_first" = "يوجد";
+"order_error_prefix_second" = "العناصر.";
+"order_error_perfix" = "الرجاء تقليل العد أو حذف العنصر المقابل.";
+
+//// make order
+"payment_method" = "وسيلة الدفع";
+"payment_mada" = "مدى / فيزا";
+"payment_cash" = "الدفع عند الاستلام";
+"completeorder_fail" = "لقد فشلت عملية الدفع، الرجاء المحاولة مرة أخرى";
+"completeorder_success" = "شكراً لك، لقد تم الدفع بنجاح";
+
+/// product cell
+"perkg" = "للكيلو";
+"perpc" = "للقطعة";
+
+/// order status
+"payment_method" = "وسيلة الدفع";
+"payment_method_mada" = "مدى / فيزا";
+"payment_method_cash" = "الدفع عند الاستلام";
+"payment_status" = "حالة السداد";
+"payment_status_pending" = "قيد الانتظار";
+"payment_status_cancelled" = "ألغيت";
+"payment_status_paid" = "دفع";
+
+// confirmation code
+"verify_code_wrong" = "رمز التحقق خطأ، يرجى المحاولة مرة أخرى";
+"error_message" = "حدث خطأ. حاول مرة اخرى";
+
